@@ -48,7 +48,7 @@ dependencies:
   - notebook=5.7.5
   - numpy=1.16.2
   - numpy-base=1.16.2
-  - openssl=1.1.1b
+  - openssl=1.0
   - pandas=0.24.1
   - pandoc=2.6
   - pandocfilters=1.4.2
